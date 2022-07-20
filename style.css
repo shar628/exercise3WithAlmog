@@ -4,6 +4,7 @@ h1:hover {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
 }
+ 
 
 .informationOfClases {
     color: aqua;
@@ -13,4 +14,9 @@ h1:hover {
     transition: ease-in-out  all 1.5s;
 font-size: 20px;
 color: brown;
+}
+.contentOfClases {
+    border: 2px solid rebeccapurple;
+    padding: 10px;
+    margin: 5px;
 }
