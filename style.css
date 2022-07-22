@@ -21,3 +21,14 @@ color: brown;
     margin: 5px;
     margin-right: 300px;
 }
+img {
+    width: 50%;
+            height: 20%;
+    transition: ease-in-out  all 1s;
+
+}
+img:hover {
+    width: 75%;
+    transition: ease-in-out  all 1s;
+
+}
